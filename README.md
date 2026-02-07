@@ -88,12 +88,12 @@ Classification Head
 
 Adaptive-ViT-Registers/
 │
-├── AMR_ViT.ipynb # Training, evaluation, and visualization
-├── SETUP_GUIDE.md # Environment setup instructions
-├── requirements.txt # Python dependencies
-├── AMR-ViT_Report.pdf # Project report / paper
-├── LICENSE
-└── README.md
+├── AMR_ViT.ipynb        # Training, evaluation, and visualization
+├── SETUP_GUIDE.md      # Environment setup instructions
+├── requirements.txt    # Python dependencies
+├── AMR-ViT_Report.pdf  # Project report / research paper
+├── LICENSE             # License information
+└── README.md           # Project documentation
 
 ---
 
